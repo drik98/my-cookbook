@@ -22,10 +22,27 @@ exports.createPages = ({ actions }) => {
     })
   });
   createPage({
-      path: "/",
-      component: require.resolve("./src/templates/indexTemplate.js"),
-      context: {
-        rezepte
+    path: "/",
+    component: require.resolve("./src/templates/indexTemplate.js"),
+    context: {
+      rezepte
+    },
+  })
+}
+
+// because of wow.js using the window object without checking if it defined, the test will fail 
+// because of that the wowjs will not be tested
+exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
+  if (stage === "build-html") {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /wowjs/,
+            use: loaders.null(),
+          },
+        ],
       },
     })
+  }
 }
