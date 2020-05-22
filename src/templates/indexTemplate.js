@@ -29,7 +29,7 @@ class IndexTemplate extends React.Component {
           </div>
           <div className="row">
             <span id="no-recipes" className="wow hidden">Kein Rezept vorhanden.</span>
-            {rezepte.map(data =>
+            {rezepte.sort((receipt1,receipt2) => receipt1.name.localeCompare(receipt2.name)).map(data =>
               <Receipt key={data.name} data={data} />
             )}
           </div>

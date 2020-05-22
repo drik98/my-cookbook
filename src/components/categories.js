@@ -42,14 +42,14 @@ class Categories extends React.Component {
 
                 const categories = (recipe.getAttribute("categories") || "").toLocaleLowerCase().split(",");
                 if (categories.includes(selectedCategory) || showAllRecipes) {
-                    recipe.classList.remove("hidden");
+                    recipe.parentElement.classList.remove("hidden");
                     // wow.js only shows elements that are in view. 
                     // so there are cases that elements are still hidden after filter is applied
                     // so wow.show is called that the element will be shown.
                     wow.show(recipe.parentElement);
                     ++amountOfRecipes;
                 } else {
-                    recipe.classList.add("hidden");
+                    recipe.parentElement.classList.add("hidden");
                 }
             })
             // if no recipes are shown currently, a message will be shown that there are no receipses available

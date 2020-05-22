@@ -11,7 +11,7 @@ class Receipt extends React.Component {
 
     render() {
         return (
-            <Animated className="col-lg-4 col-md-6 col-sm-12 wow" animationIn="fadeIn">
+            <Animated className="col-lg-4 col-md-6 col-sm-12 wow recipe-container" animationIn="fadeIn">
                 <div className="recipe-item text-center" categories={this.props.data.kategorien?.join()}>
                     <Link to={this.props.data.path}>
                         <Image
