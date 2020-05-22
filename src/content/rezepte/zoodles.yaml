@@ -1,0 +1,35 @@
+name: "Zoodles"
+image: "zoodles.png"
+path: "/zoodles"
+zeit: "0:45 H"
+schwierigkeit: 4
+portionen: 4
+zutaten:
+  - name: gramm Hähnchenbrustfilet
+    anzahl: 500
+  - name: EL Olivenöl
+    anzahl: 3
+  - name: TL rote Currypaste
+    anzahl: 1
+  - name: Zucchini(s)
+    anzahl: 3
+  - name: Karrotte(n)
+    anzahl: 6
+  - name: Tomate(n)
+    anzahl: 2
+  - name: Paket Ziegenfrischköse
+    anzahl: 1
+  - name: "Salz, Peffer"
+    anzahl: 1
+
+anweisungen:
+  - Hähnchenbrustfilet  in mundgerechte Stücke schneiden
+  - Olivenöl mit 1 TL der roten Currypaste in einer Pfanne erhitzen und das Hähnchenfleisch darin von allen Seiten knusprig braten
+  - Währenddessen Zucchini waschen und Karotten schälen. Mit Gemüseschneider in schmale Streifen schneiden
+  - Das fertig gebratene Hähnchenfleisch herausnehmen und dabei möglichst den Bratsaft in der Pfanne lassen. Die Gemüsebandnudeln in Wasser (nur den Boden mit Wasser bedecken) mit dem Bratsaft aufkochen lassen und einige Minuten garen lassen
+  - Derweil 2 Tomaten würfeln und zum Gemüse geben
+  - Zum Schluss den Ziegenfrischkäse und das Hähnchenfleisch zugeben und alles noch einmal unter Rühren erhitzen.
+  - Mit Salz und Pfeffer abschmecken und servieren
+kategorien:
+  - fleisch
+  - vegetarisch

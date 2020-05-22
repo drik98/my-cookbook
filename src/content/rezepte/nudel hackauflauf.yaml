@@ -1,0 +1,44 @@
+name: "Nudelhackauflauf"
+image: "nudelhackauflauf.jpg"
+path: "/nudelhackauflauf"
+zeit: "1:00 H"
+schwierigkeit: 2
+portionen: 4
+zutaten:
+  - name: "gramm Penne"
+    anzahl: 250
+  - name: "gramm gemischtes Hack"
+    anzahl: 300
+  - name: "gramm Frischkäse mit Kräutern"
+    anzahl: 200
+  - name: "ml süße Sahne"
+    anzahl: 250
+  - name: "Tube Tomatenmark"
+    anzahl: 0.5
+  - name: "gramm geriebener Gouda"
+    anzahl: 100
+  - name: "Zwiebel(n)"
+    anzahl: 2
+  - name: "ml Gemüsebrühe"
+    anzahl: 250
+  - name: "Dose Mais"
+    anzahl: 0.5
+  - name: "EL Öl"
+    anzahl: 3
+  - name: "Saucenbinder"
+    anzahl: 1
+  - name: "Prise Salz, Pfeffer, Paprika"
+    anzahl: 1
+anweisungen:
+  - Die Zwiebel in Würfel schneiden und in etwas Öl anbraten
+  - Das Hackfleisch dazu geben und scharf anbraten
+  - Mit Tomatenmark, Salz, Pfeffer und Paprika würzen
+  - Die Nudeln in Salzwasser gar kochen und abtropfen lassen
+  - Unter das Hackfleisch mischen und alles in eine Auflaufform füllen
+  - Die Fleischbrühe aufkochen lassen, den Frischkäse einrühren und schmelzen lassen
+  - Die Sahne dazu geben und die Sauce mit Salz und Pfeffer abschmecken. Mit Saucenbinder andicken
+  - Die Sauce über die Nudeln gießen und alles mit Käse bestreuen
+  - 20 - 30 Minuten bei 200° backen, bis der Käse zerlaufen ist und sich eine leichte Kruste bildet
+kategorien:
+  - fleisch
+  - nudeln

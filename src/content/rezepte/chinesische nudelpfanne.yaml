@@ -1,0 +1,33 @@
+name: Chinesische Nudelpfanne
+image: "chinesische-nudelpfanne.png"
+path: "/chinesische-nudelpfanne"
+zeit: "0:30 H"
+schwierigkeit: 3
+portionen: 4
+zutaten:
+  - name: gramm Gabelspaghetti
+    anzahl: 500
+  - name: gramm Rindfleisch Minutensteaks
+    anzahl: 500
+  - name: EL Öl
+    anzahl: 4
+  - name: Stange(n) Porree
+    anzahl: 2
+  - name: gramm Champignons
+    anzahl: 200
+  - name: "Knoblauchzähe(n)"
+    anzahl: 2
+  - name: "EL Sojasauce"
+    anzahl: 2
+  - name: "Salz, Peffer, Paprika"
+    anzahl: 1
+  - name: "TL Rotisseur Senf"
+    anzahl: 2
+anweisungen:
+  - Rindfleisch in feine Streifen schneiden, Porree in kleine Ringe schneiden, Champignons in kleine scheiben schneiden
+  - Gabelspaghetti circa 10 Minuten mit etwas Salz kochen
+  - Champignons zusammen mit Rindfleisch und Knoblauch scharf anbraten, anschließend Porree dazu geben
+  - Fertige Nudeln dazu geben, mit Sojasauce, Gewürzen und Senf vermischen und noch 2-3 Minuten ziehen lassen.
+kategorien:
+  - fleisch
+  - nudeln

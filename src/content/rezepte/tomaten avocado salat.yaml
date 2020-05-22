@@ -1,0 +1,35 @@
+name: "Tomaten-Avocado Salat"
+image: "tomaten-avocado-salat.jpg"
+path: "/tomaten-avocado-salat-mit-gebratenen-garnelen"
+zeit: "0:20 H"
+schwierigkeit: 2
+portionen: 4
+zutaten:
+  - name: "Tomate(n)"
+    anzahl: 5
+  - name: "Bund Schnittlauch"
+    anzahl: 1
+  - name: "Avocado(s)"
+    anzahl: 2
+  - name: "Esslöffel Zitronensaft"
+    anzahl: 4
+  - name: "Esslöffel Rapsöl"
+    anzahl: 4
+  - name: "Prise Salz und Peffer"
+    anzahl: 1
+  - name: "Teelöffel Paprikapulver rosenscharf"
+    anzahl: 0.5
+  - name: "gramm Garnele(n), rohe, ohne Schale"
+    anzahl: 250
+anweisungen:
+  - Die Tomaten waschen und würfelig schneiden
+  - Die Avocado schälen, das Fruchtfleisch in kleine Würfel schneiden, in eine Schüssel geben
+  - Avocados mit der hälfte des Zitronensaft beträufeln
+  - Den Schnittlauch waschen und in Röllchen schneiden
+  - Tomaten und Schnittlauch zu den Avocadostücken geben
+  - Die Garnelen in etwas Öl rasch scharf braten
+  - Den restlichen Zitronensaft, das Rapsöl, Salz, Pfeffer und Paprikapulver miteinander verrühren, über die Tomaten und Avocadomischung geben und alles vorsichtig durchmischen.
+  - Die Garnelen auf dem Salat anrichten.
+kategorien:
+  - fisch
+  - vorspeise

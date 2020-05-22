@@ -1,0 +1,38 @@
+name: "Lachs Lasagne mit Spinat"
+image: "lasagne-lachs.jpg"
+path: "/lasagne-lachs"
+zeit: "1:00 H"
+schwierigkeit: 3
+portionen: 6
+zutaten:
+  - name: "Paket(e) Lasagne Blätter"
+    anzahl: 1
+  - name: gramm TK Lachsfilet
+    anzahl: 300
+  - name: Paket TK Rahmspinat
+    anzahl: 1
+  - name: "Tube Tomatenmark"
+    anzahl: 0.5
+  - name: "gramm geriebener Gouda"
+    anzahl: 200
+  - name: "ml süße Sahne"
+    anzahl: 200
+  - name: "EL Mehl"
+    anzahl: 3
+  - name: "ml Milch"
+    anzahl: 250
+  - name: "Knoblauchzähe(n)"
+    anzahl: 2
+  - name: "Salz, Peffer"
+    anzahl: 1
+  - name: "EL Butter"
+    anzahl: 1.5
+anweisungen:
+  - Den Spinat bei schwacher Hitze in etwas Wasser und der Hälfte der Sahne in einem Topf auftauen, so dass eine flüssige Soße entsteht. Mit Salz und Pfeffer würzen.
+  - Für die Soße ca.1 EL Margarine schmelzen, mind. 1,5 EL Mehl dazugeben und kurz anbräunen. Mit der heißen Milch ablöschen. Einen halben Becher Sahne und einen halben Becher Wasser dazugeben (Menge je nach Bedarf). Mit reichlich Tomatenmark, Knoblauch- und Zwiebelsalz und Pfeffer würzen
+  - Den Lachs im halbgefrorenen Zustand in kleine Würfel schneiden.
+  - "In einer mittleren Auflaufform wie folgt schichten: Soße, Lasagneblätter, Spinat, Lasagneblätter, Soße und Lachswürfel, Lasagneblätter, Soße und geriebener Käse"
+  - Bei 180 - 200 °C Umluft ca. 30 min. garen.
+kategorien:
+  - fisch
+  - nudeln

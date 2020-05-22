@@ -1,0 +1,37 @@
+name: "One Pot Penne mit Brokkoli und Pilzen"
+image: "one-pot-penne.png"
+path: "/one-pot-penne-mit-brokkoli-und-pilzen"
+zeit: "0:40 H"
+schwierigkeit: 2
+portionen: 4
+zutaten:
+  - name: "Kopf Brokkoli"
+    anzahl: 1
+  - name: gramm Vollkornpenne
+    anzahl: 400
+  - name: gramm Champignons, braun
+    anzahl: 200
+  - name: Zwiebel(n) rot
+    anzahl: 1
+  - name: ml Sahne
+    anzahl: 150
+  - name: ml Weißwein
+    anzahl: 100
+  - name: gramm Creme fraiche
+    anzahl: 100
+  - name: Bund Petersilie
+    anzahl: 0.5
+  - name: TL Gemüsebrühe
+    anzahl: 1.5
+  - name: EL Olivenöl
+    anzahl: 1
+  - name: "Salz, Peffer"
+    anzahl: 1
+anweisungen:
+  - Brokkoli waschen, in kleine Röschen schneiden. Champignons putzen, ggf. Stiel kürzen und vierteln. Zwiebel pellen und fein hacken
+  - Olivenöl in einem großen Topf erhitzen, Zwiebeln und Champignons kurz anschwitzen. Penne und Brokkoli zusammen mit 500 ml Gemüsebrühe und der Sahne in den Topf geben und bei mittlerer Hitze ca. 12 Minuten köcheln lassen, bis die Nudeln bissfest sind. Dabei gelegentlich umrühren.
+  - Weißwein und Crème fraîche dazu geben und weitere 3-4 Minuten bei geringer Hitze ziehen lassen. In der Zwischenzeit die Petersilie waschen, trocken schütteln und fein hacken. Unter die Penne heben.
+  - One Pot Penne mit Salz und Pfeffer abschmecken und servieren.
+kategorien:
+  - vegetarisch
+  - nudeln

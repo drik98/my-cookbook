@@ -1,0 +1,35 @@
+name: "Bandnudeln mit Lachs und Brokkoli"
+image: "bandnudeln-lachs.png"
+path: "/bandnudeln-lachs-und-brokkoli"
+zeit: "0:30 H"
+schwierigkeit: 2
+portionen: 4
+zutaten:
+  - name: "Kopf Brokkoli"
+    anzahl: 1
+  - name: gramm Bandnudeln
+    anzahl: 500
+  - name: "ml süße Sahne"
+    anzahl: 250
+  - name: "gramm Lachsfilet"
+    anzahl: 600
+  - name: "Zitrone(n)"
+    anzahl: 1
+  - name: Schuss Weißwein
+    anzahl: 1
+  - name: "Knoblauchzähe(n)"
+    anzahl: 2
+  - name: "Salz, Peffer"
+    anzahl: 1
+  - name: "TL Senf"
+    anzahl: 1.5
+anweisungen:
+  - Brokkoli klein schneiden, in kochendes Wasser geben mit 1 TL Brühe, 8 Minuten Kochen
+  - Zeitgleich die Nudeln ca. 10 Minuten mit etwas Salz kochen lassen
+  - Haut von Lachs abtrennen und Lachs anschließend in kleine Würfel schneiden. Mit Knoblauch, Salz und Pfeffer anbraten
+  - Wenn der Lachfs fertig angebraten ist, mit Weißwein ablöschen
+  - Sahne über den Lachs gießen, Zitrone dazu geben, mit Salz und Pfeffer nachwürzen. Senf dazumischen
+  - Brokkoli und Nudeln dazu geben, 2-3 Minuten ziehen lassen
+kategorien:
+  - fisch
+  - nudeln

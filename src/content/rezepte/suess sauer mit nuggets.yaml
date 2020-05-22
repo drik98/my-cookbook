@@ -1,0 +1,42 @@
+name: "Süß-Sauer mit Nuggets"
+image: "suessauer.png"
+path: "/suess-sauer-nuggets"
+zeit: "0:30 H"
+schwierigkeit: 3
+portionen: 4
+zutaten:
+  - name: Paket Chicken Nuggets 
+    anzahl: 1
+  - name: Stange(n) Porree
+    anzahl: 1
+  - name: gemischte Paprika(s)
+    anzahl: 2
+  - name: Scheiben Ananas aus der Dose
+    anzahl: 4
+  - name: Tasse Reis
+    anzahl: 1
+  - name: Zähe(n) Knoblauch
+    anzahl: 3
+  - name: EL Essig
+    anzahl: 1
+  - name: EL Zucker
+    anzahl: 4
+  - name: EL Sojasauce
+    anzahl: 3
+  - name: Dunkler Saucenbinder
+    anzahl: 1
+  - name: "Prise Salz, Peffer"
+    anzahl: 1
+  - name: Viel Öl
+    anzahl: 1
+anweisungen:
+  - Porree, Ananas, Paprika und Knoblauch klein schneiden
+  - Währenddessen einen Topf Reis aufsetzen und 20 Minuten mit etwas Salz kochen. 
+  - Kleingeschnittenes Gemüse in einer Pfanne kurz Anbraten, dabei die Ananas erst zum Schluss dazu geben, da diese sonst zu heiß wird
+  - Zeitgleich die Nuggets mit viel Öl und dem Knoblauch anbraten unter mehrmaligem Wenden, sodass diese schön goldbraun werden
+  - Den Ananassaft zusammen mit dem Essig, Zucker und Sojasauce vermengen und mit Salz und Pfeffer abschmecken
+  - Die Sauce zum Gemüse gießen und ca 10 Minuten lang köcheln lassen
+  - Zum Schluss mit Saucenbinder abbinden
+kategorien:
+  - fleisch
+  - reis

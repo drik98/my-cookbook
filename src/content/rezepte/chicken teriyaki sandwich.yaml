@@ -1,0 +1,39 @@
+name: "Chicken Teriyaki Sandwich"
+image: "chickenteriyakisandwich.jpg"
+path: "/chicken-teriyaki-sandwich"
+zeit: "0:30 H"
+schwierigkeit: 3
+portionen: 4
+zutaten:
+  - name: Esslöffel Sojasoße
+    anzahl: 4
+  - name: Esslöffel Worcestershiresoße
+    anzahl: 4
+  - name: Esslöffel Essig (Reisessig od. Apfelessig)
+    anzahl: 6
+  - name: Esslöffel Honig
+    anzahl: 5
+  - name: Esslöffel Tomatenmark
+    anzahl: 3
+  - name: Esslöffel Senf (Dijon)
+    anzahl: 2
+  - name: Stk. Ingwer"
+    anzahl: 1
+  - name: Knoblauchzehe
+    anzahl: 1
+  - name: gramm Hähncheninnenfilets
+    anzahl: 400
+  - name: Esslöffel Sesamöl
+    anzahl: 4
+  - name: Esslöffel Stärke
+    anzahl: 2
+  - name: Käse, Zwiebeln, Salat, Gurken, etc.. (nach belieben)
+    anzahl: 1
+anweisungen:
+  - Verrühre die Sojasoße, Worcestershiresoße, Essig, Honig, Tomatenmark, Senf, den gehackten Ingwer und die Knoblauchzehe in einem kleinen Topf und lass die Soße bei mittlerer Hitze 2-3 Minuten köcheln
+  - Schneide das Fleisch in 3 cm lange Stücke und wende sie in der Stärke.
+  - Erwärme das Öl in einer Eisenpfanne bei hoher Hitze und brate das Fleisch rundherum an. Nimm es aus der Pfanne und lege es direkt in die Teriyaki-Soße, lass es einmal aufkochen und lass das Chicken Teriyaki dann abgedeckt abkühlen
+  - "Erwärme das Chicken Teriyaki etwas. Schneide das Brot auf und belege es mit dem Fleisch und nach Belieben mit Zutaten der Wahl, wie beispielsweise: Käse (Kashkaval Käse / Kasar), rote Zwiebelringe, Salat, Jalapeno, usw."
+kategorien:
+  - fleisch
+  - frühstück

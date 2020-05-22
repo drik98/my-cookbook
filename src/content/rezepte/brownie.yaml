@@ -1,0 +1,41 @@
+name: "Baked Brownie"
+image: "brownie.jpg"
+path: "/brownie.jpg"
+zeit: "1:00 H"
+schwierigkeit: 4
+portionen: 6
+zutaten:
+  - name: Ei(er), getrennt
+    anzahl: 5
+  - name: gramm Mehl
+    anzahl: 150
+  - name: TL Meersalz
+    anzahl: 1
+  - name: TL Kakaopulver
+    anzahl: 2
+  - name: gramm Schokolade, zartbitter
+    anzahl: 300
+  - name: gramm Butter
+    anzahl: 225
+  - name: TL Espresso, Instantpulver
+    anzahl: 1
+  - name: gramm Zucker, weiß
+    anzahl: 300
+  - name: gramm Zucker, braun
+    anzahl: 100
+  - name: Flasche Vanillearoma
+    anzahl: 0.5
+  - name: Tüte/n Vanillezucker
+    anzahl: 1
+anweisungen:
+  - Ofen auf 180 Grad Celsius vorheizen. Eine Backform (Glas oder weiß 15 x 25cm) mit Backpapier auslegen
+  - In einer Schüssel Mehl, Salz und Kakaopulver mit einem Schneebesen verrühren
+  - Die Schokolade, Butter und das Esspressopulver in einem kleinen Topf durch Wasserbad erwärmen. Ab und zu umrühren bis alles geschmolzen ist
+  - Dann Herd ausmachen und den Zucker hinzugeben. Verrühren bis alles geschmolzen ist
+  - Drei Eier hinzufügen und verrühren
+  - Dann die restlichen Eier hinzufügen. Vanillearoma und Vanillezucker hinzufügen. Keinen Mixer benutzen! Alles per Hand verrühren
+  - Schokoladencreme dann langsam mit dem Mehl verrühren
+  - Den Teig in die Form geben. Dann 30 Minuten auf der mittleren Schiene backen. Mit einem Zahnstocher gucken, ob das Innere gut ist. Am Zahnstocher sollten einige Klümpchen kleben bleiben. Brownies komplett abkühlen lassen. Dann mit Hilfe des Backpapier aus der Form heben und in 12 Quadrate schneiden.
+kategorien:
+  - nachtisch
+  - vegetarisch
