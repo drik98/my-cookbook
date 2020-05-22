@@ -11,7 +11,7 @@ class Footer extends React.Component {
                 <Animated className="wow" animationIn="bounce">
                     <div className="container">
                         <div className="row">
-                            <div className="col-md-6 col-sm-12 text-center">
+                            <div className="col-md-6 col-sm-12 text-center footer-content">
                                 <h3>About</h3>
                                 <div className="footer-about">
                                     "A recipe book is one that you use daily and what we in our family
@@ -21,7 +21,7 @@ class Footer extends React.Component {
                                     that is how they improve, are changed, how new ideas are formed. ”
                            </div>
                             </div>
-                            <div className="col-md-6 col-sm-12 text-center">
+                            <div className="col-md-6 col-sm-12 text-center footer-content">
                                 <div className="footer-author">
                                     Template made with <i className="fa fa-heart" aria-hidden="true"></i> love by <a href="https://jraleman.com/" target="_blank" rel="noreferrer">Jose Ramon</a>,
                                <br />
