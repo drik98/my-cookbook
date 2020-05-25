@@ -5,6 +5,8 @@ module.exports = {
     author: `@HendrikSchmitz`,
   },
   plugins: [
+    `json2yaml`,
+    // `moment`
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

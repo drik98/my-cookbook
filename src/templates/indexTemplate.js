@@ -4,11 +4,12 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Receipt from "../components/receipt"
 import Categories from "../components/categories"
+import { Link } from "gatsby"
 
 class IndexTemplate extends React.Component {
 
   componentDidMount() {
-    if(this.props.pageContext.rezepte.length === 0) {
+    if (this.props.pageContext.rezepte.length === 0) {
       document.getElementById("no-recipes").classList.remove("hidden");
     }
   }
@@ -29,12 +30,16 @@ class IndexTemplate extends React.Component {
           </div>
           <div className="row">
             <span id="no-recipes" className="wow hidden">Kein Rezept vorhanden.</span>
-            {rezepte.sort((receipt1,receipt2) => receipt1.name.localeCompare(receipt2.name)).map(data =>
+            {rezepte.sort((receipt1, receipt2) => receipt1.name.localeCompare(receipt2.name)).map(data =>
               <Receipt key={data.name} data={data} />
             )}
           </div>
+          <div className="row">
+            <Link to="/rezeptGenerator">Weitere Rezepte hinzufügen?</Link>
+          </div>
         </div>
       </section>
+
     </Layout>
     )
   }

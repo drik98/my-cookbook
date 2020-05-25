@@ -98,13 +98,13 @@ table {
 ** -----------------------------------------------------------------------------
 */
 
-#categories {
+#categories, .main-content {
   background-color: #f9f9f9;
   padding-top: 12px;
   padding-bottom: 24px;
 }
 
-#categories h2 {
+#categories h2, .main-content h2 {
   color: #333;
   font-family: 'Dancing Script', cursive;
   font-size: 2em;

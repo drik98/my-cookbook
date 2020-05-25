@@ -2,6 +2,8 @@ import React from "react"
 import { Animated } from "react-animated-css";
 import WOW from 'wowjs';
 import Category from "./category"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faUtensils } from '@fortawesome/free-solid-svg-icons'
 
 import milk from "../images/icons/milk.png"
 import meat from "../images/icons/steak.png"
@@ -91,7 +93,7 @@ class Categories extends React.Component {
                         {/* the "show-all" entry differs from all other categories */}
                         <div className="col-12 text-center show-all">
                             <div className="category-item text-center selected" category="all">
-                                <i className="fa fa-cutlery fa-2x" aria-hidden="true"></i>
+                            <FontAwesomeIcon icon={faUtensils} className="fa-2x"/>
                                 <br />
                                     Alle anzeigen
                                 </div>
