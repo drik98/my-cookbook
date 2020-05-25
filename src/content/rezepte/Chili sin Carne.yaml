@@ -1,0 +1,62 @@
+---
+  name: "Chili sin Carne"
+  zeit: "0:30 H"
+  schwierigkeit: "2"
+  portionen: 4
+  anweisungen: 
+    - "Zwiebel und Knoblauch klein schneiden und in einem großen Topf in etwas Butter anschwitzen"
+    - ""
+    - "Die Kartoffeln schälen, in kleine Würfel schneiden und dazu geben"
+    - "Die roten Linsen kurz abbrausen und ebenfalls in die Topf geben"
+    - "Mit der Gemüsebrühe ablöschen und 20-25 Minuten köcheln lassen"
+    - "Die Kartoffeln müssen durch sein und die Linsen schön weich zerfallen"
+    - "Kidneybohnen und Mais abtropfen lassen, unterrühren und gut heiß werden lassen"
+    - "Dann nach Belieben die Suppe mit den passierten Tomaten strecken"
+    - "Mit etwas Salz (Vorsicht wegen der meist schon gut gesalzenen Gemüsebrühe), Pfeffer, Curry, Paprika und Chilipulver kräftig würzen (je nach Geschmack)"
+  zutaten: 
+    - 
+      anzahl: "250"
+      name: "g Linsen , rote"
+    - 
+      anzahl: "1"
+      name: "Dose Kidneybohnen"
+    - 
+      anzahl: "1"
+      name: "Dose Mais"
+    - 
+      anzahl: "1"
+      name: "Zwiebel(n)"
+    - 
+      anzahl: "2"
+      name: "m.-große Kartoffel(n)"
+    - 
+      anzahl: ""
+      name: "Butter zum Anschwitzen"
+    - 
+      anzahl: "1"
+      name: "Pck. Tomate(n) , passierte"
+    - 
+      anzahl: ""
+      name: "Chili"
+    - 
+      anzahl: "2"
+      name: "Knoblauchzehe(n)"
+    - 
+      anzahl: "1.250"
+      name: "ml Gemüsebrühe"
+    - 
+      anzahl: ""
+      name: "Paprikapulver"
+    - 
+      anzahl: ""
+      name: "Currypulver"
+    - 
+      anzahl: ""
+      name: "Salz und Pfeffer"
+  path: "/chili-sin-carne"
+  image: "https://img.chefkoch-cdn.de/rezepte/595441159189225/bilder/652442/crop-960x540/chili-sin-carne.jpg"
+  anmerkungen: ""
+  quelle: "https://www.chefkoch.de/rezepte/595441159189225/Chili-sin-Carne.html"
+  kategorien: 
+    - "vegetarisch"
+  dontChangeFocus: true
