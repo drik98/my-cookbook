@@ -13,11 +13,7 @@ import Header from "./header"
 import Footer from "./footer"
 import AnimationComponent from "./AnimationComponent"
 
-
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'animate.css/animate.css'
 import "./css/styles.css"
-import 'bootstrap/dist/js/bootstrap';
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
