@@ -3,9 +3,11 @@
   My Cookbook 
 </h1>
 
-<p>Created using <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="16" />Gatsby's default starter
+<p>Created using <a href="https://www.gatsbyjs.com/">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="16" />Gatsby's default starter
   </a> with React. Creates recipe pages from static yaml files.</p>
+  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/dcfb4a9f-c977-4958-9693-dbc3b18c0ab4/deploy-status)](https://app.netlify.com/sites/smtz-cookbook/deploys)
 
 ## 🚀 Quick start
 
