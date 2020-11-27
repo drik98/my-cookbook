@@ -1,0 +1,60 @@
+---
+  name: "Gefüllte Zuchhini"
+  zeit: "1:00 H"
+  schwierigkeit: "3"
+  portionen: ""
+  anweisungen: 
+    - "Die Zucchini waschen und längs halbieren. Das Fruchtfleisch mit einem Teelöffel herauslösen und fein hacken"
+    - "Die Tomaten kurz blanchieren, kalt abschrecken, häuten und in kleine Würfel schneiden"
+    - "Die Frühlingszwiebeln in feine Ringe schneiden"
+    - "Die Möhren schälen und raspeln"
+    - "Feta in Würfel schneiden"
+    - "Thymian waschen, trockenschwenken, die Blättchen von den Stielen streifen"
+    - "Zucchinifleisch, Tomaten, Creme fraiche, Feta, Frühlingszwiebeln, Möhren und die Sonnenblumenkernen in eine Schüssel geben, Knoblauch schälen und durch die Knoblauchpresse dazupressen, mit Salz und Pfeffer würzen."
+    - "Die Zucchini füllen. Den geriebenen Parmesan über die Zucchini streuen."
+    - "Die Zucchini in den auf 200 Grad Ober-/Unterhitze (Umluft 180 Grad) vorgeheizten Backofen stellen, etwa 35 Minuten backen, bis sie bissfest sind und die Oberfläche schön gebräunt ist."
+    - "Mit Petersilie bestreut servieren"
+  zutaten: 
+    - 
+      anzahl: "2"
+      name: "Zucchini(s)"
+    - 
+      anzahl: "2"
+      name: "Tomate(n)"
+    - 
+      anzahl: "5"
+      name: "Frühlingszwiebel(n)"
+    - 
+      anzahl: "2"
+      name: "Möhre(n)"
+    - 
+      anzahl: "200"
+      name: "g Feta"
+    - 
+      anzahl: "0.5"
+      name: "Bund Tyhmian"
+    - 
+      anzahl: "1"
+      name: "Knoblauchzähe(n)"
+    - 
+      anzahl: "3"
+      name: "EL Sonnenblumenkerne"
+    - 
+      anzahl: "75"
+      name: "g Creme fraiche"
+    - 
+      anzahl: "30"
+      name: "g Parmesan"
+    - 
+      anzahl: "1"
+      name: "Bund Petersilie"
+    - 
+      anzahl: ""
+      name: "Salz, Peffer"
+  path: "/gefuellte-zuchhini"
+  image: "gefuellte-zuchini.png"
+  anmerkungen: ""
+  quelle: "https://www.edeka.de/rezepte/rezept/gefuellte-zucchini.jsp"
+  kategorien: 
+    - "Vegetarisch"
+  dontChangeFocus: true
