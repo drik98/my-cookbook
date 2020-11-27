@@ -1,0 +1,38 @@
+---
+  name: "Schottische Butterplätzchen"
+  zeit: "4:00"
+  schwierigkeit: "2"
+  portionen: "3"
+  anweisungen: 
+    - "Mehl, Rohrzucker, Vanillezucker, Salz und Butter in einen Teig kneten"
+    - "Den Teig in vier Teile aufteilen und in Rollen formen mit einem Durchmesser von ca. 5 cm"
+    - "2-3 Stunden im Kühlschrank lagern"
+    - "Aus den Rollen ca. 1 cm dicke Scheiben schneiden"
+    - "Mit grobem Kandiszucker bestreuen"
+    - "Ca. 10-12 Minuten im vorgeheizten Ofen bei 175-200° Ober- und Unterhitze oder 160-170° Umluft backen"
+  zutaten: 
+    - 
+      anzahl: "375"
+      name: "g Mehl"
+    - 
+      anzahl: "200"
+      name: "g brauner Rohrzucker"
+    - 
+      anzahl: "1"
+      name: "Paket Vanillezucker"
+    - 
+      anzahl: "250"
+      name: "g weiche Butter"
+    - 
+      anzahl: ""
+      name: "grober Kandiszucker"
+    - 
+      anzahl: ""
+      name: "prise Salz"
+  path: "/schottische-butterplaetzchen"
+  image: "schottische-butterplaetzchen.jpeg"
+  anmerkungen: "Die Butter muss wirklich weich sein und der Teig lange genug durchgeknetet werden für optimale Ergebnisse. Außerdem hilft es beim Formen der Rollen regelmäßig die Hände mit warmen Wasser zu reinigen. Das Rezept reicht für ca. 3 Bleche."
+  quelle: "Oma Hildegard❤️"
+  kategorien: 
+    - "Nachtisch"
+  dontChangeFocus: true
