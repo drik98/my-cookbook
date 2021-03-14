@@ -1,0 +1,58 @@
+---
+  name: "Falafal"
+  zeit: "16:00 H"
+  schwierigkeit: "3"
+  portionen: "4"
+  anweisungen: 
+    - "Die Kichererbsen in einer großen Schüssel mit 5 cm Wasse bedecken und über Nacht stehen lassen. Die Kichererbsen werden ihre Größe verdoppeln oder verdreifachen."
+    - "Die Kichererbsen abtropfen. Ein Backblech mit Papiertüchern auslegen und die Kichererbsen darauf verteilen. Mit weiteren Papiertüchern bedecken und vorsichtig zum Trocknen andrücken. Die Kichererbsen bis zu 3 Stunden stehen lassen, damit sie weiter trocknen."
+    - "Die Kichererbsen in einer Küchenmaschine pürieren, bis sie fein zerkleinert sind. Die Hälfte davon in eine große Schüssel zur Seite legen. Kräuter, Zwiebel, Knoblauch und Gewürze mit den restlichen Kichererbsen in die Küchenmaschine geben und verarbeiten, bis alles gut vermischt und die Kostitenz der einer Paste gleicht. Die zur Seite gestellten Kichererbsen dazu geben und vermischen."
+    - "Die Rührschüssel abdecken und 1 bis 2 Stunden in den Kühlschrank stellen, damit die Mischung fest werden kann. Der Schritt kann übersprungen weden, aber die Falafel werden beim Kochen eher auseinanderbrechen."
+    - "Öl in einer Pfanne erhitzen."
+    - "Mit einem Eislöffel kleine Kugeln aus der Falafel-Mischung ausstechen, etwa 2 Esslöffel groß. Sobald das Öl heiß ist, so viele Falafel in die Pfanne geben, wie hineinpassen, ohne sie zu überfüllen - normalerweise 4-5."
+    - "Frittieren, bis sie außen knusprig und tief gebräunt und innen durchgebraten sind, ca. 6 Minuten, nach der Hälfte der Zeit einmal wenden. Auf einen mit Küchenpapier ausgelegten Teller geben, um überschüssiges Öl aufzusaugen, und vor dem Servieren zusätzlich mit koscherem Salz bestreuen."
+  zutaten: 
+    - 
+      anzahl: "500"
+      name: "g getrocknete Kichererbsen"
+    - 
+      anzahl: "1"
+      name: "Tasse Petersilie"
+    - 
+      anzahl: "1"
+      name: "Tasse Koriaender"
+    - 
+      anzahl: "0.5"
+      name: "Zwiebeln"
+    - 
+      anzahl: "8"
+      name: "Zähen Knoblauch"
+    - 
+      anzahl: "1"
+      name: "EL Kreuzkümmel"
+    - 
+      anzahl: "2"
+      name: "TL Meersalz"
+    - 
+      anzahl: "1"
+      name: "TL Backpulver"
+    - 
+      anzahl: "0.5"
+      name: "TL Pfeffer"
+    - 
+      anzahl: "0.25"
+      name: "TL Cayenne Pfeffer"
+    - 
+      anzahl: "1"
+      name: "TL Yedi Türlü"
+    - 
+      anzahl: ""
+      name: "Öl zum Fritieren"
+  path: "/falafal"
+  image: "falafel.png"
+  anmerkungen: "Die Falafel am besten mit Knoblauchsauce und Salat in einer Pitatasche oder Dürüm servieren."
+  quelle: "https://hostthetoast.com/homemade-falafel-pan-fried-or-baked/#tasty-recipes-13532-jump-target"
+  kategorien: 
+    - "Vegetarisch"
+    - "Vegan"
+  dontChangeFocus: true

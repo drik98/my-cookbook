@@ -1,0 +1,69 @@
+---
+  name: "Krustenbraten"
+  zeit: "3:00 H"
+  schwierigkeit: "4"
+  portionen: "4"
+  anweisungen: 
+    - "Schwarte des Bratens rautenförmig einschneiden. Fleisch mit Salz und Pfeffer einreiben."
+    - "Puderzucker in den Bräter stäuben und karamellisieren lassen. Tomatenmark unterrühren und bräunen lassen. Mit Fond und Rotwein ablöschen. Fleisch mit der Schwarte nach unten in den Bräter legen."
+    - "Schalotten, Karotten, Knollensellerie und Knoblauch schälen. Schalotten halbieren, Karotten in Scheiben, Knollensellerie in Würfel und Knoblauch fein schneiden. Gemüse und Rosmarinzweige um das Fleisch verteilen. Bei 200°C Ober-/Unterhitze (Umluft 180 Grad) auf der 4. Schiene von unten 30 Minuten braten, dann wenden und weitere 1,5 Std. bei 180°C Ober-/Unterhitze (Umluft 160 Grad) braten, Kruste öfter mit Fond begießen."
+    - "Honig mit heißem Salzwasser mischen. Fleisch auf ein Backblech setzen, mit Honig-Wasser-Gemisch bestreichen. Bei 200°C Ober-/Unterhitze (Umluft 180 Grad) weitere 5 Minuten braten, bis die Schwarte kross ist. Braten aus dem Ofen nehmen und warm stellen."
+    - "\n\nSchalotten aus der Sauce heben und beiseite stellen. Sauce durch ein Sieb passieren, mit dem Saucenbinder leicht binden. Schalotten und Rosmarinnadeln in die Sauce geben und noch 5 Minuten köcheln lassen, abschmecken."
+    - "Braten in Scheiben schneiden und mit der Sauce auf Tellern anrichten."
+  zutaten: 
+    - 
+      anzahl: "1"
+      name: "kg Schweinebraten"
+    - 
+      anzahl: ""
+      name: "Salz"
+    - 
+      anzahl: ""
+      name: "Pfeffer"
+    - 
+      anzahl: "1"
+      name: "TL Puderzucker"
+    - 
+      anzahl: "1"
+      name: "EL Tomatenmark"
+    - 
+      anzahl: "400"
+      name: "ml Rinderfond"
+    - 
+      anzahl: "150"
+      name: "ml Rotwein, trocken"
+    - 
+      anzahl: "150"
+      name: "g Schalotte"
+    - 
+      anzahl: "150"
+      name: "g Karotte"
+    - 
+      anzahl: "100"
+      name: "g Sellerie"
+    - 
+      anzahl: "3"
+      name: "Knoblauchzehe"
+    - 
+      anzahl: "2"
+      name: "Zweige Rosmarin"
+    - 
+      anzahl: "1"
+      name: "EL Honig"
+    - 
+      anzahl: "1"
+      name: "EL Salzwasser"
+    - 
+      anzahl: "1"
+      name: "TL Soßenbinder, dunkel"
+    - 
+      anzahl: "1"
+      name: "TL Rosmarinnadel"
+  path: "/krustenbraten"
+  image: "krustenbraten.webp"
+  anmerkungen: "Dazu eignet sich Spätzle und Rotkohl."
+  quelle: "https://www.edeka.de/rezepte/rezept/krustenbraten-mit-rosmarin.jsp"
+  kategorien: 
+    - "Fleisch"
+    - "Hauptspeise"
+  dontChangeFocus: true

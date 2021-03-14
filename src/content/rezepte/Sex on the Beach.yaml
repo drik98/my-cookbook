@@ -1,0 +1,42 @@
+---
+  name: "Sex on the Beach"
+  zeit: "0:05 H"
+  schwierigkeit: "1"
+  portionen: "1"
+  anweisungen: 
+    - "Den Shaker mit 4 Eiswürfeln füllen und die übrigen Zutaten dazugeben, kräftig durchschütteln."
+    - "In ein Longdrinkglas oder Ballonglas einige Eiswürfel geben und den Cocktail durch ein Barsieb dazugießen."
+    - "Mit Strohalmen und einer Orangenscheibe servieren."
+  zutaten: 
+    - 
+      anzahl: "4"
+      name: "cl Aprikosenlikör"
+    - 
+      anzahl: "4"
+      name: "cl Wodka"
+    - 
+      anzahl: "8"
+      name: "cl Ananassaft"
+    - 
+      anzahl: "4"
+      name: "cl Cranberrysirup"
+    - 
+      anzahl: "4"
+      name: "cl Orangensaft "
+    - 
+      anzahl: "4"
+      name: "Eiswürfel"
+    - 
+      anzahl: ""
+      name: "Crushed Ice"
+    - 
+      anzahl: ""
+      name: "Orangenscheibe"
+  path: "/sex-on-the-beach"
+  image: "sex-on-the-beach.png"
+  anmerkungen: ""
+  quelle: "https://www.gutekueche.at/sex-on-the-beach-cocktail-rezept-18119"
+  kategorien: 
+    - "Nachtisch"
+    - "Cocktail"
+  dontChangeFocus: true

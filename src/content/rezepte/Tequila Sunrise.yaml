@@ -1,0 +1,39 @@
+---
+  name: "Tequila Sunrise"
+  zeit: "0:05 H"
+  schwierigkeit: 1
+  portionen: "1"
+  anweisungen: 
+    - "Den Shaker mit 5 Eiswürfeln füllen, alle Zutaten bis auf Grenadine dazu geben und kräftig schütteln. (15 Sek.)"
+    - "In ein Longdrinkglas einige Crushed Ice geben und den Drink durch ein Barsieb dazugießen. Die Grenadine vorsichtig über einen Löffelrücken in das Glas gießen."
+    - "Nicht umrühren, warten bis der Sirup auf dem Glasboden ist und anschließend mit Strohhalm und einer Zitronenscheibe servieren."
+  zutaten: 
+    - 
+      anzahl: "4"
+      name: "cl Tequila"
+    - 
+      anzahl: "1"
+      name: "cl Zitronensaft"
+    - 
+      anzahl: "11"
+      name: "cl Orangensaft"
+    - 
+      anzahl: "1"
+      name: "cl Grenadine"
+    - 
+      anzahl: "5"
+      name: "Eiswürfel"
+    - 
+      anzahl: ""
+      name: "Crushed Ice"
+    - 
+      anzahl: ""
+      name: "Zitronenscheibe"
+  path: "/tequila-sunrise"
+  image: "tequila-sunrise.png"
+  anmerkungen: ""
+  quelle: "https://www.gutekueche.at/tequila-sunrise-cocktail-rezept-18096"
+  kategorien: 
+    - "Cocktail"
+    - "Nachtisch"
+  dontChangeFocus: true
